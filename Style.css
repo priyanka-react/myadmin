@@ -1,0 +1,38 @@
+.date{
+    background-color: #295979;
+    color: white; 
+}
+.date h2{
+	padding: 10px 0px; 
+	font-size: 20px !important;
+}
+.h2-color{
+	color: #295979 !important;
+}
+.form-btn{
+	background-color: #295979;
+    color: white;
+    text-align: none;
+}
+.form-btn:hover{
+	background-color: #295979;
+}
+.date1{
+	background-color: #295979;
+	padding: 20px 0px;
+}
+
+.cc:hover{
+	text-decoration: none;
+}
+.lll li{
+	padding: 5px 20px; 
+}
+table td {
+	padding: 4px !important;
+}
+.form-control{
+	width: auto !important;
+	height: auto !important;
+	padding: 0 !important;
+}
